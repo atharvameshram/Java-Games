@@ -10,7 +10,7 @@
  2. *game-name*UI.form - used for frontend design using Java Swing Toolkit.
  3. *game-name*UI.java - main file to run both frontend and backend of the game.
 
-# Tic-tac-toe
+### Tic-tac-toe
 
 
-# Wordle
+### Wordle
